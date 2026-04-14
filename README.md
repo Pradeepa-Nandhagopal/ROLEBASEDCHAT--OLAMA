@@ -90,4 +90,4 @@ python chat.py
 
 ## 👩‍💻 Author
 
-Your Name
+Pradeepa N
